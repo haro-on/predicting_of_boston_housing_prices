@@ -10,7 +10,7 @@ This dataset is a modified version of the Boston Housing dataset was collected i
 The modified Boston housing dataset consists of 490 data points, with each datapoint having 3 features.
 ### Features:
 
-RM: average number of rooms per dwelling
-LSTAT: percentage of population considered lower status
-PTRATIO: pupil-student ratio by town
-Target Variable: MEDV: median value of owner-occupied homes
+RM: average number of rooms per dwelling  
+LSTAT: percentage of population considered lower status  
+PTRATIO: pupil-student ratio by town  
+Target Variable: MEDV: median value of owner-occupied homes  
