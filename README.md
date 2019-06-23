@@ -1,16 +1,8 @@
 # Machine Learning Engineering
 # Supervised Learning
 
-## Motviation:
-
-
-
 ## Project Overview:
-In this project, I applied basic machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. I first explored the data to obtain important features and descriptive statistics about the dataset. Next, I properly split the data into testing and training subsets, and determine a suitable performance metric for this problem. Then I analyzed performance graphs for a learning algorithm with varying parameters and training set sizes. This enabled me to pick the optimal model that best generalizes for unseen data. Finally, I tested this optimal model on a new sample and compare the predicted selling price to my statistics. The main techniques used:
-
-Evaluating Model performance
-Model Evaluation & Validation
-Model Optimization
+In this project, I applied  Supervised Learning algorithms and machine learning concepts on data collected for housing prices in the Boston, Massachusetts area to predict the selling price of a new home. I first explored the data to obtain important features and descriptive statistics about the dataset. Next, I properly split the data into testing and training subsets, and determine a suitable performance metric for this problem. Then I analyzed performance graphs for a learning algorithm with varying parameters and training set sizes throgh grid search technique. This enabled me to pick the optimal model to predict a a housing prices of boston dataset.
 
 
 ## dataset:
@@ -22,7 +14,7 @@ The feature 'MEDV' has been multiplicatively scaled to account for 35 years of m
 
 The modified Boston housing dataset consists of 490 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the UCI Machine Learning Repository.
 
-Features
+### Features
 
 RM: average number of rooms per dwelling
 LSTAT: percentage of population considered lower status
