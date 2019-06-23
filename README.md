@@ -6,17 +6,11 @@ In this project, I applied  Supervised Learning algorithms and machine learning 
 
 
 ## dataset:
-The dataset for this project originates from the UCI Machine Learning Repository. The Boston housing data was collected in 1978 and each of the 506 entries represent aggregated data about 14 features for homes from various suburbs in Boston, Massachusetts. 
-16 data points have an 'MEDV' value of 50.0. These data points likely contain missing or censored values and have been removed.
-1 data point has an 'RM' value of 8.78. This data point can be considered an outlier and has been removed.
-The features 'RM', 'LSTAT', 'PTRATIO', and 'MEDV' are essential. The remaining non-relevant features have been excluded.
-The feature 'MEDV' has been multiplicatively scaled to account for 35 years of market inflation.
-
-The modified Boston housing dataset consists of 490 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the UCI Machine Learning Repository.
-
-### Features
+This dataset is a modified version of the Boston Housing dataset was collected in 1978 found on the UCI Machine Learning Repository.
+The modified Boston housing dataset consists of 490 data points, with each datapoint having 3 features.
+### Features:
 
 RM: average number of rooms per dwelling
 LSTAT: percentage of population considered lower status
 PTRATIO: pupil-student ratio by town
-Target Variable 4. MEDV: median value of owner-occupied homes
+Target Variable: MEDV: median value of owner-occupied homes
